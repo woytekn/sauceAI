@@ -1,0 +1,23 @@
+{
+  "name": "sauceai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woytekn/sauceAI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woytekn/sauceAI/issues"
+  },
+  "homepage": "https://github.com/woytekn/sauceAI#readme",
+  "dependencies": {
+    "playwright": "^1.32.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.32.2"
+  }
+}
